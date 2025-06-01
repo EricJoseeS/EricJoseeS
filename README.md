@@ -27,6 +27,12 @@ Aqui estão algumas das tecnologias que estudo e utilizo:
 
 ---
 
+## 🏆 Certificações  
+### 📜 Certificado de Inglês - EF SET  
+[![Certificado EF SET](https://cert.efset.org/Qxhwo2)](https://cert.efset.org/Qxhwo2)  
+
+---
+
 ## 🚀 Projetos e Aprendizados  
 Estou sempre desenvolvendo novos projetos para fortalecer meu conhecimento. Fique à vontade para explorar meu repositório!  
 Caso tenha sugestões ou queira colaborar, será um prazer trocar ideias.  
@@ -44,4 +50,3 @@ Me encontre nas redes e vamos conversar sobre desenvolvimento!
 ---
 
 💡 _"A melhor maneira de prever o futuro é criá-lo."_  
-
