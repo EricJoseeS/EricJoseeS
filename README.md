@@ -44,7 +44,7 @@ Caso tenha sugestões ou queira colaborar, será um prazer trocar ideias.
 ## 📫 Conecte-se comigo!  
 Me encontre nas redes e vamos conversar sobre desenvolvimento!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ericjosee/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Eric-black?style=flat&logo=github)](https://github.com/EricJoseeS)  
 
 ---
