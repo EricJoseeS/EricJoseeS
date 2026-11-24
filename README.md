@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou o Eric!
 
-![Banner](https://i.postimg.cc/vmZwGSPq/Copilot-20250601-101708.png)
-
 🎯 **Desenvolvedor Android em formação**  
 📚 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🚀 Apaixonado por tecnologia, desenvolvimento mobile e inovação  
