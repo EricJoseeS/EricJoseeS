@@ -9,7 +9,7 @@
 ## 📌 Sobre mim  
 Sou um entusiasta do desenvolvimento de aplicativos Android, sempre em busca de aprender e aprimorar minhas habilidades. Meu objetivo é construir soluções eficientes e intuitivas para tornar a experiência dos usuários mais incrível.
 
-🔹 **Idade:** 20 anos  
+🔹 **Idade:** 22 anos  
 🔹 **Foco:** Desenvolvimento Android  
 🔹 **Interesses:** Mobile, UI/UX, Kotlin, Clean Architecture  
 
